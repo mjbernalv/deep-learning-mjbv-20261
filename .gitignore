@@ -78,3 +78,6 @@ coverage.xml
 # OS
 Thumbs.db
 *.log
+
+# Checkpoints
+Workshop 4 - NLP/checkpoints
